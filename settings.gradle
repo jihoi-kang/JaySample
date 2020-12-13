@@ -1,0 +1,3 @@
+include ':jaysample'
+include ':app'
+rootProject.name = "JaySample"
